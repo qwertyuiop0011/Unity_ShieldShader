@@ -1,2 +1,1 @@
-# Unity_ShieldShader
-PulseShield Shader in unity
+# Unity Shield Shader
